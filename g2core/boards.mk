@@ -27,6 +27,13 @@
 ##########
 # V9-based configs:
 
+ifeq ("$(CONFIG)","X8_2200")
+    ifeq ("$(BOARD)","NONE")
+        BOARD=gShield
+    endif
+    SETTINGS_FILE="settings_X8_2200.h"
+endif
+
 ifeq ("$(CONFIG)","ShapeokoDualY")
     ifeq ("$(BOARD)","NONE")
         BOARD=g2v9k
