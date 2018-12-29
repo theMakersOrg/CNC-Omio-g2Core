@@ -2,6 +2,12 @@
 
 [![Build Status](https://travis-ci.org/synthetos/g2.svg?branch=edge)](https://travis-ci.org/synthetos/g2) [![Issues in Ready](https://badge.waffle.io/synthetos/g2.svg?label=ready&title=Ready)](http://waffle.io/synthetos/g2) [![Issues in Progress](https://badge.waffle.io/synthetos/g2.svg?label=in%20progress&title=In%20Progress)](http://waffle.io/synthetos/g2)
 
+
+# Changes for makers
+Added X8_2200 configuration with respiective config in AS7.
+added Bossac programming script!! you will need to adjust the filepath before using.
+
+
 # What it is
 
 g2core is a 9 axes (XYZABC+UVW) motion control system designed for high-performance on small to mid-sized machines.
