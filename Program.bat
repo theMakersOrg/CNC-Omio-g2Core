@@ -1,0 +1,1 @@
+start C:\Users\Tony\Downloads\arduino-flash-tools-master\tools_windows\bossac\bin\bossac.exe --port=COM20 -U false -e -w -v -b "g2core\bin\X8_2200-gShield\g2core.bin" -R
